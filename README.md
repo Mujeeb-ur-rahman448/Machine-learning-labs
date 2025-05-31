@@ -21,8 +21,4 @@ This repository contains lab exercises for the Machine Learning course. Each lab
 - NumPy: Arrays, operations, indexing
 - Pandas: DataFrames, importing data, cleaning, filtering, and basic analysis
 
-## ▶️ How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/mluqman336/Machine-Learning-Labs.git
